@@ -3,7 +3,7 @@ This project is developed with team of 4 members in Audio Programming Course at 
 the Music Communication & Technology Program, **[( MCT NTNU)](https://www.ntnu.edu/studies/mmct)** & **[(MCT UiO)](https://www.uio.no/english/studies/programmes/mct-master/)**, which is a joint collaborative program between Norwegian Institute of Science & Technology and the University of Oslo . The code is written in javascript language using the p5.js library and uses a drum solo by Thomas Lang. The drum solo has been used as an input for convolution which again processes a live audio input. Finally the mix of the sound is visualized using the fft function in p5.js and is sent to the main output.
 
 ## Acknowledgement
-Our heartfelt gratitude to [Anna Xambo](https://github.com/axambo) for guiding us all through the process from Day 1 to Day 4. Thank you 
+Our heartfelt gratitude to our teacher [Anna Xambo](https://github.com/axambo) for guiding us all through the process from Day 1 to Day 4. Thank you 
 so much for your support and patience which helped us learn and practice coding in Web Audio API, Html, javascript, CSS and p5.js. 
 Similarly, thanks to all our peers and audience for their constructive feedbacks and suggestions.
 Besides, we would also like to take this opportunity to thank [Hamed Kazemi](https://www.facebook.com/hamed.kazemi) for his collaboration 
