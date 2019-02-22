@@ -11,7 +11,7 @@ so much for your support and patience which helped us learn and practice coding 
 Similarly, thanks to all our peers and audience for their constructive feedbacks and suggestions.
 Besides, we would also like to take this opportunity to thank [Hamed Kazemi](https://www.facebook.com/hamed.kazemi) for his collaboration 
 in the working process. And last but not the least, a big thanks to shiffman from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-for sharing his huge collection of tutorials on YouTube. I watched the [Sound Visualization tutorial] (https://www.youtube.com/watch?v=2O3nm0Nvbi4) which gave me
+for sharing his huge collection of tutorials on YouTube. I watched the [Sound Visualization tutorial](https://www.youtube.com/watch?v=2O3nm0Nvbi4) which gave me
 a lot of insingts in creating a similar kind of visualization for this project.
 
 ## The Development team :
