@@ -12,7 +12,7 @@ var start = 0;
   function preload() {
     soundFormats("mp3");
 
-    loadSound("recorded/drumsolo.mp3");
+    loadSound("drumsolo.mp3");
 
     img = loadImage("image3.jpg");
   }
